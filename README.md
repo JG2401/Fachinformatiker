@@ -4,6 +4,31 @@
 
 [![Fachinformatiker-Roadmap](roadmap_image.png)](https://roadmap.sh/r/fachinformatiker)
 
+### Hardware & EDV - IT-Technik
+
+| Topic                                   | Link                                                                                                                                                                                                                                                                                                                                                       |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Grundgatter (Logikgatter)               |                                                                                                                                                                                                                                                                                                                                                            |
+|                                         | [https://www.elektroniktutor.de/digitaltechnik/gatter.html](https://www.elektroniktutor.de/digitaltechnik/gatter.html)                                                                                                                                                                                                                                     |
+|                                         | [https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:computers/xcae6f4a7ff015e7d:logic-gates-and-circuits/quiz/xcae6f4a7ff015e7d:computers-quiz-1](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:computers/xcae6f4a7ff015e7d:logic-gates-and-circuits/quiz/xcae6f4a7ff015e7d:computers-quiz-1) |
+| KV Diagramm (Kamaugh-Veitch - Diagramm) |                                                                                                                                                                                                                                                                                                                                                            |
+|                                         | [https://www.elektroniktutor.de/digitaltechnik/kvdiagr.html#:~:text=Ein%20KV%2DDiagramm%20ist%20eine,ergeben%20sich%20bereits%20minimierte%20Funktionsgleichungen](https://www.elektroniktutor.de/digitaltechnik/kvdiagr.html#:~:text=Ein%20KV%2DDiagramm%20ist%20eine,ergeben%20sich%20bereits%20minimierte%20Funktionsgleichungen).                      |
+| Ampelsteuerung                          |                                                                                                                                                                                                                                                                                                                                                            |
+|                                         | [https://www.elektroniktutor.de/regelungstechnik/regelung.html](https://www.elektroniktutor.de/regelungstechnik/regelung.html)                                                                                                                                                                                                                             |
+|                                         |                                                                                                                                                                                                                                                                                                                                                            |
+| Zahlensysteme                           |                                                                                                                                                                                                                                                                                                                                                            |
+|                                         | [https://studyflix.de/informatik/zahlensysteme-402](https://studyflix.de/informatik/zahlensysteme-402)                                                                                                                                                                                                                                                     |
+| Addierer                                |                                                                                                                                                                                                                                                                                                                                                            |
+|                                         | [https://inf-schule.de/rechner/digitaltechnik/addierer/einstieg](https://inf-schule.de/rechner/digitaltechnik/addierer/einstieg)                                                                                                                                                                                                                           |
+
+### Lizenzen, Datensicherheit (BDSG), Copyright - IT-Technik
+
+### Netzwerkarchitekturen, USV, OSI Modell - FU-IT
+
+### AEuP (Anwendungsentwicklung u. Programmierung)
+
+### Wirtschaft
+
 ## Educational platforms
 
 | Title                                     | Topic       | Link                                                                                                                                                                       |
