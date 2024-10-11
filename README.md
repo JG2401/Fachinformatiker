@@ -7,7 +7,7 @@
 > [!TIP]
 > Visit the complete roadmap [here](https://roadmap.sh/r/fachinformatiker)
 
-### Hardware & EDV - IT-Technik
+### Elektrotechnik - IT-Technik
 
 | Topic                                   | Link                                                                                                                                                                                                                                                                                                                                                       |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -24,7 +24,7 @@
 | Addierer                                |                                                                                                                                                                                                                                                                                                                                                            |
 |                                         | [https://inf-schule.de/rechner/digitaltechnik/addierer/einstieg](https://inf-schule.de/rechner/digitaltechnik/addierer/einstieg)                                                                                                                                                                                                                           |
 
-### Lizenzen, Datensicherheit (BDSG), Copyright - IT-Technik
+### Hardware & EDV - IT-Technik
 
 | Topic                                  | Link                                                                                                                                                                                                                                                                                                                                                                                          |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,11 +48,30 @@
 | Green-IT                               |                                                                                                                                                                                                                                                                                                                                                                                               |
 |                                        | [https://www.ionos.de/digitalguide/hosting/hosting-technik/green-it/](https://www.ionos.de/digitalguide/hosting/hosting-technik/green-it/)                                                                                                                                                                                                                                                    |
 
+### Lizenzen, Datensicherheit (BDSG), Copyright - IT-Technik
+
+| Topic                       | Link                                                                                                                                                                                                           |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Datensicherheit             |                                                                                                                                                                                                                |
+|                             | [https://www.datenschutz.org/datensicherheit-massnahmen/](https://www.datenschutz.org/datensicherheit-massnahmen/)                                                                                             |
+| Lizenzvereinbarungen        |                                                                                                                                                                                                                |
+|                             | [https://fynk.com/de/glossar/lizenzvereinbarungen/](https://fynk.com/de/glossar/lizenzvereinbarungen/)                                                                                                         |
+| Gefahren des el. Stroms     |                                                                                                                                                                                                                |
+|                             | [https://www.leifiphysik.de/elektrizitaetslehre/ohmsches-gesetz-kennlinien/ausblick/gefahr-durch-strom](https://www.leifiphysik.de/elektrizitaetslehre/ohmsches-gesetz-kennlinien/ausblick/gefahr-durch-strom) |
+| Lizenzarten                 |                                                                                                                                                                                                                |
+|                             | [https://www.erp.de/erp-software/orientierung/softwarelizenzen-definition-und-arten](https://www.erp.de/erp-software/orientierung/softwarelizenzen-definition-und-arten)                                       |
+| Schranken des Urheberrechts |                                                                                                                                                                                                                |
+|                             | [https://www.urheberrecht.de/schranken-des-urheberrechts/](https://www.urheberrecht.de/schranken-des-urheberrechts/)                                                                                           |
+| Schutzziele                 |                                                                                                                                                                                                                |
+|                             | [https://www.rst-beratung.de/themen/informationssicherheit](https://www.rst-beratung.de/themen/informationssicherheit)                                                                                         |
+
 ### Netzwerkarchitekturen, USV, OSI Modell - FU-IT
 
 ### AEuP (Anwendungsentwicklung u. Programmierung)
 
 ### Wirtschaft
+
+### Politik und Gesellschaft
 
 ## Educational platforms
 
