@@ -96,3 +96,6 @@
 | Programmier.bar                           | Podcast     | [https://www.programmier.bar](https://www.programmier.bar)                                                                                                                 |
 | Rheinwerk Openbook                        | Book        | [https://www.rheinwerk-verlag.de/openbook](https://www.rheinwerk-verlag.de/openbook)                                                                                       |
 | dpunkt Openbooks                          | Book        | [https://dpunkt.de/openbooks](https://dpunkt.de/openbooks)                                                                                                                 |
+
+> [!TIP]
+> If you're interested in useful software, take a look at my [TechToolkit](https://github.com/JG2401/TechToolkit)
