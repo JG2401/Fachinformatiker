@@ -139,10 +139,13 @@
 | Leetcode Problems                         | Coding      | [https://leetcode.com/problemset/?difficulty=EASY&page=1](https://leetcode.com/problemset/?difficulty=EASY&page=1)                                                         |
 | CodeChef C#                               | Coding      | [https://www.codechef.com/learn/course/c-sharp](https://www.codechef.com/learn/course/c-sharp)                                                                             |
 | SelfHtml                                  | Coding      | [https://wiki.selfhtml.org](https://wiki.selfhtml.org)                                                                                                                     |
+| CSS-Tricks                                | Coding      | [https://css-tricks.com](https://css-tricks.com)                                                                                                                           |
+| Type-Level-Typescript                     | Coding      | [https://type-level-typescript.com](https://type-level-typescript.com)                                                                                                     |
 | IT-Berufe-Podcast                         | Podcast     | [https://it-berufe-podcast.de](https://it-berufe-podcast.de)                                                                                                               |
 | Programmier.bar                           | Podcast     | [https://www.programmier.bar](https://www.programmier.bar)                                                                                                                 |
 | Rheinwerk Openbook                        | Book        | [https://www.rheinwerk-verlag.de/openbook](https://www.rheinwerk-verlag.de/openbook)                                                                                       |
 | dpunkt Openbooks                          | Book        | [https://dpunkt.de/openbooks](https://dpunkt.de/openbooks)                                                                                                                 |
+| EbookFoundation free-programming-books    | Book        | [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)                                                     |
 
 > [!TIP]
 > If you're interested in useful software, take a look at my [TechToolkit](https://github.com/JG2401/TechToolkit)
