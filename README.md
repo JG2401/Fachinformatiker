@@ -2,7 +2,7 @@
 
 ## Roadmap
 
-[![Fachinformatiker-Roadmap](roadmap_image.png)](https://roadmap.sh/r/fachinformatiker)
+[![Fachinformatiker-Roadmap](Ausbildungsjahr1/roadmap_image.png)](https://roadmap.sh/r/fachinformatiker)
 
 ## Ausbildungsjahre
 
