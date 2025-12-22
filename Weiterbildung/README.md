@@ -10,19 +10,20 @@ Es gibt unglaublich viele Bereiche, Sektoren und Spezialisierungen in der IT. Um
 
 ![](https://www.ihk-biz.de/app/uploads/sites/2/2021/08/dqr-rahmen-qualifikation-ihk-abschluss-bildungszentrum-im-vergleich-zu-studium.jpg)
 
-Die IHK Schwaben bietet hierzu ein umfangreiches Dokument zur [IT-Weiterbildung](https://www.ihk-akademie-schwaben.de/weiterbildung/download/558660/753df0270e336f2b68f52658a2955d6b262573b3/it-weibi-1019-mail.pdf).
-
-
 ### Kurse der [IHK Schwaben](https://www.ihk-akademie-schwaben.de) & [IHK München](https://www.ihk-akademie-muenchen.de) 
 
-#### DQR
+#### Deutscher Qualifikationsrahmen (DQR)
 
 | DQR-Stufe | Fachrichtung          | Abschluss |
 | --------- | --------------------- | --------- |
 | [Stufe 5](https://www.ihk-muenchen.de/ihk/documents/Berufliche-Bildung/Fortbildung/Fortbildungspr%C3%BCfungen/Anh%C3%A4nge/IHK_DQR_Niveau5_B_Print.pdf)   | Anwendungsentwicklung | [Geprüfte/r Berufsspezialist/in für Softwareentwicklung](https://www.ihk-akademie-schwaben.de/weiterbildung/lehrgang/247765/augsburg/gepruefer-berufsspezialistin-fuer-softwareentwicklung) |
 |           | Systemintegration     | [Geprüfte/r Berufsspezialist/in für Systemintegration und Vernetzung](https://www.ihk-akademie-schwaben.de/weiterbildung/lehrgang/247768/augsburg/gepruefter-berufsspezialistin-fuer-systemintegration-und-vernetzung) |
 | [Stufe 6](https://www.ihk-muenchen.de/ihk/documents/Berufliche-Bildung/Fortbildung/Fortbildungspr%C3%BCfungen/Anh%C3%A4nge/IHK_DQR_Niveau6_B_Print.pdf)   | | [Bachelor Professional in IT](https://www.ihk-akademie-muenchen.de/it/bachelor-professional-it/) |
-| [Stufe 7](https://www.ihk-muenchen.de/ihk/documents/Berufliche-Bildung/Fortbildung/Fortbildungspr%C3%BCfungen/Anh%C3%A4nge/IHK_DQR_Niveau7_B_Print.pdf)   | | [Gepr. Betriebswirt/-in](https://www.ihk-akademie-muenchen.de/betriebswirte/betriebswirt/) |
+| [Stufe 7](https://www.ihk-muenchen.de/ihk/documents/Berufliche-Bildung/Fortbildung/Fortbildungspr%C3%BCfungen/Anh%C3%A4nge/IHK_DQR_Niveau7_B_Print.pdf)   | | [Geprüfte/r Betriebswirt/-in](https://www.ihk-akademie-muenchen.de/betriebswirte/betriebswirt/) |
+
+Den Berufspezialisten der Stufe 5 gibt grundsätlich auch für die Fachrichtungen [IT-Beratung](https://www.bibb.de/dienst/berufesuche/de/index_berufesuche.php/profile/advanced_training/ITber24), [Datenanalyse](https://www.bibb.de/dienst/berufesuche/de/index_berufesuche.php/profile/advanced_training/gbd24) und [Informationssicherheit](https://www.bibb.de/dienst/berufesuche/de/index_berufesuche.php/profile/advanced_training/gbisi24).
+
+Informationen zur Förderung findest du [hier](https://www.ihk-akademie-schwaben.de/foerderung/aufstiegs-bafoeg/).
 
 #### Zertifikate
 
