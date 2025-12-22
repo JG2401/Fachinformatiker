@@ -11,6 +11,9 @@
 - [Ausbildungsjahr 3 - Anwendungsentwicklung](Ausbildungsjahr3_awe/README.md)
 - [Ausbildungsjahr 3 - Systemintegration](Ausbildungsjahr3_sys/README.md)
 
+&rarr; [Nach der Ausbildung/Weiterbildung](Weiterbildung/README.md)
+
+
 ## Educational platforms
 
 | Title                                     | Topic       | Link                                                                                                                                                                       |
