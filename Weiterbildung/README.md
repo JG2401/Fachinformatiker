@@ -19,9 +19,10 @@ Die IHK Schwaben bietet hierzu ein umfangreiches Dokument zur [IT-Weiterbildung]
 
 | DQR-Stufe | Fachrichtung          | Abschluss |
 | --------- | --------------------- | --------- |
-| Stufe 5   | Anwendungsentwicklung | [Geprüfte/r Berufsspezialist/in für Softwareentwicklung](https://www.ihk-akademie-schwaben.de/weiterbildung/lehrgang/247765/augsburg/gepruefer-berufsspezialistin-fuer-softwareentwicklung) |
+| [Stufe 5](https://www.ihk-muenchen.de/ihk/documents/Berufliche-Bildung/Fortbildung/Fortbildungspr%C3%BCfungen/Anh%C3%A4nge/IHK_DQR_Niveau5_B_Print.pdf)   | Anwendungsentwicklung | [Geprüfte/r Berufsspezialist/in für Softwareentwicklung](https://www.ihk-akademie-schwaben.de/weiterbildung/lehrgang/247765/augsburg/gepruefer-berufsspezialistin-fuer-softwareentwicklung) |
 |           | Systemintegration     | [Geprüfte/r Berufsspezialist/in für Systemintegration und Vernetzung](https://www.ihk-akademie-schwaben.de/weiterbildung/lehrgang/247768/augsburg/gepruefter-berufsspezialistin-fuer-systemintegration-und-vernetzung) |
-
+| [Stufe 6](https://www.ihk-muenchen.de/ihk/documents/Berufliche-Bildung/Fortbildung/Fortbildungspr%C3%BCfungen/Anh%C3%A4nge/IHK_DQR_Niveau6_B_Print.pdf)   | | [Bachelor Professional in IT](https://www.ihk-akademie-muenchen.de/it/bachelor-professional-it/) |
+| [Stufe 7](https://www.ihk-muenchen.de/ihk/documents/Berufliche-Bildung/Fortbildung/Fortbildungspr%C3%BCfungen/Anh%C3%A4nge/IHK_DQR_Niveau7_B_Print.pdf)   | | [Gepr. Betriebswirt/-in](https://www.ihk-akademie-muenchen.de/betriebswirte/betriebswirt/) |
 
 #### Zertifikate
 
