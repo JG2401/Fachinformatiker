@@ -17,9 +17,9 @@ Die IHK Schwaben bietet hierzu ein umfangreiches Dokument zur [IT-Weiterbildung]
 
 #### DQR
 
-| DQR Stufe | Fachrichtung          |  |
-| --------- | --------------------- |  |
-| Stufe 5   | Anwendungsentwicklung | [Geprüfe/r Berufsspezialist/in für Softwareentwicklung](https://www.ihk-akademie-schwaben.de/weiterbildung/lehrgang/247765/augsburg/gepruefer-berufsspezialistin-fuer-softwareentwicklung) |
+| DQR-Stufe | Fachrichtung          | Abschluss |
+| --------- | --------------------- | --------- |
+| Stufe 5   | Anwendungsentwicklung | [Geprüfte/r Berufsspezialist/in für Softwareentwicklung](https://www.ihk-akademie-schwaben.de/weiterbildung/lehrgang/247765/augsburg/gepruefer-berufsspezialistin-fuer-softwareentwicklung) |
 |           | Systemintegration     | [Geprüfte/r Berufsspezialist/in für Systemintegration und Vernetzung](https://www.ihk-akademie-schwaben.de/weiterbildung/lehrgang/247768/augsburg/gepruefter-berufsspezialistin-fuer-systemintegration-und-vernetzung) |
 
 
