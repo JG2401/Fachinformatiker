@@ -13,7 +13,7 @@ Es gibt unglaublich viele Bereiche, Sektoren und Spezialisierungen in der IT. Um
 Die IHK Schwaben bietet hierzu ein umfangreiches Dokument zur [IT-Weiterbildung](https://www.ihk-akademie-schwaben.de/weiterbildung/download/558660/753df0270e336f2b68f52658a2955d6b262573b3/it-weibi-1019-mail.pdf).
 
 
-### Kurse der [IHK Schwaben](https://www.ihk-akademie-schwaben.de/weiterbildung/)
+### Kurse der [IHK Schwaben](https://www.ihk-akademie-schwaben.de) & [IHK München](https://www.ihk-akademie-muenchen.de) 
 
 #### DQR
 
